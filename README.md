@@ -32,6 +32,12 @@ I enjoy learning new concepts, experimenting with different technologies, and im
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+## 📊 GitHub Stats
+
+![Arpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpitpandey-del&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpandey-del&layout=compact&hide_border=true)
+
 ### 📚 Currently Learning
 
 I'm currently focusing on strengthening my programming fundamentals and exploring AI and related technologies. 
