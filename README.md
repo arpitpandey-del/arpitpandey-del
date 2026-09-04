@@ -64,3 +64,9 @@ I'm currently focusing on improving my programming fundamentals and exploring di
 - 🔧 Git & GitHub
 
 I'm interested in understanding how technology works and gradually turning what I learn into practical skills.
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Arpit Pandey](https://www.linkedin.com/in/arpit-pandey-435948410?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 📧 Email: arpitpandey069069@gmail.com
+- 🐙 GitHub: [@arpitpandey-del](https://github.com/arpitpandey-del)
