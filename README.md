@@ -13,6 +13,19 @@ I enjoy learning new concepts, experimenting with different technologies, and im
 - 🧠 Interested in problem-solving and learning how things work
 - 🌱 Always trying to learn something new and improve step by step
 
+  ## 📚 What I'm Learning
+
+I'm currently focusing on improving my programming fundamentals and exploring different areas of technology.
+
+- 🐍 Python
+- ☕ Java
+- 💻 C Programming
+- 🤖 Artificial Intelligence & Machine Learning
+- 👁️ Computer Vision
+- 🔧 Git & GitHub
+
+I'm interested in understanding how technology works and gradually turning what I learn into practical skills.
+
 ## 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
@@ -50,20 +63,7 @@ To keep learning, gain practical experience, and become a better developer one s
 I believe that consistency and curiosity are important for becoming a better developer. 
 I'm still learning, experimenting, and improving every day.
 
-Thanks for visiting my profile! 😊
-
-## 📚 What I'm Learning
-
-I'm currently focusing on improving my programming fundamentals and exploring different areas of technology.
-
-- 🐍 Python
-- ☕ Java
-- 💻 C Programming
-- 🤖 Artificial Intelligence & Machine Learning
-- 👁️ Computer Vision
-- 🔧 Git & GitHub
-
-I'm interested in understanding how technology works and gradually turning what I learn into practical skills.
+Thanks for visiting my profile.
 
 ## 📫 Connect With Me
 
