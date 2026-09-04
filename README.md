@@ -35,3 +35,16 @@ I believe that consistency and curiosity are important for becoming a better dev
 I'm still learning, experimenting, and improving every day.
 
 Thanks for visiting my profile! 😊
+
+## 📚 What I'm Learning
+
+I'm currently focusing on improving my programming fundamentals and exploring different areas of technology.
+
+- 🐍 Python
+- ☕ Java
+- 💻 C Programming
+- 🤖 Artificial Intelligence & Machine Learning
+- 👁️ Computer Vision
+- 🔧 Git & GitHub
+
+I'm interested in understanding how technology works and gradually turning what I learn into practical skills.
