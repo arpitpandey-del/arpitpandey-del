@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Arpit 👋
 
-<!--
-**arpitpandey-del/arpitpandey-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a college student with a strong interest in programming, technology, and Artificial Intelligence. 
+I enjoy learning new concepts, experimenting with different technologies, and improving my skills through practice.
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 College Student
+- 💻 Interested in Software Development and AI
+- 🤖 Currently exploring Artificial Intelligence, Machine Learning, and Computer Vision
+- 🐍 Learning and working with Python
+- ☕ Also learning Java and improving my C programming skills
+- 🧠 Interested in problem-solving and learning how things work
+- 🌱 Always trying to learn something new and improve step by step
+
+### 🛠️ Languages & Technologies
+
+**Languages:**  
+Python • C • Java
+
+**AI & Computer Vision:**  
+Artificial Intelligence • Machine Learning • OpenCV • MediaPipe • NumPy
+
+**Tools:**  
+Git • GitHub • VS Code
+
+### 📚 Currently Learning
+
+I'm currently focusing on strengthening my programming fundamentals and exploring AI and related technologies. 
+My goal is to keep learning, gain practical experience, and gradually build a strong foundation in technology.
+
+### 🚀 A Little More
+
+I believe that consistency and curiosity are important for becoming a better developer. 
+I'm still learning, experimenting, and improving every day.
+
+Thanks for visiting my profile! 😊
