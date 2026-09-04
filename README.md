@@ -13,16 +13,24 @@ I enjoy learning new concepts, experimenting with different technologies, and im
 - 🧠 Interested in problem-solving and learning how things work
 - 🌱 Always trying to learn something new and improve step by step
 
-### 🛠️ Languages & Technologies
+## 🛠️ Skills & Technologies
 
-**Languages:**  
-Python • C • Java
+### 💻 Programming Languages
 
-**AI & Computer Vision:**  
-Artificial Intelligence • Machine Learning • OpenCV • MediaPipe • NumPy
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Tools:**  
-Git • GitHub • VS Code
+### 🤖 AI & Computer Vision
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 📚 Currently Learning
 
